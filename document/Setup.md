@@ -132,6 +132,8 @@ Here's the list of online servers.
 | URL        | Supported Version | WebUI |
 | ---------- | ----------------- | ----- |
 | ea.msm.moe | ?                 | ?     |
+|aqua.naominet.live|Buddies| https://portal.naominet.live/|
+|amime.missless.net|Buddies| https://card.missless.net/| (Best private server i know of)
 
 ### Setup [ARTEMiS](https://gitea.tendokyu.moe/Hay1tsme/artemis)
 
